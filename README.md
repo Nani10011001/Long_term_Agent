@@ -42,14 +42,16 @@ AI:   Yes, Nani! You introduced yourself earlier 😊
 
  🏗️ Architecture
 ```
-<img width="1235" height="879" alt="image" src="https://github.com/user-attachments/assets/c958aa53-7b46-43d7-a2a9-ebc0b6744536" />
+e
 
-
+<div align="center">
+<img src="https://github.com/Nani10011001/LTM-AI-Agent/assets/your-asset-id/architecture.png" alt="LTM-AI-Agent Architecture" width="850"/>
+</div>
 ```
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 
 | Feature | Description |
 |---|---|

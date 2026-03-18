@@ -40,40 +40,11 @@ AI:   Yes, Nani! You introduced yourself earlier 😊
 
 ---
 
-## 🏗️ Architecture
+ 🏗️ Architecture
 ```
-┌─────────────────────────────────────────────┐
-│           React + Vite (Frontend)           │
-│              Chat UI Interface              │
-└──────────────────┬──────────────────────────┘
-                   │ POST /chat
-┌──────────────────▼──────────────────────────┐
-│         Node.js + Express (Backend)         │
-│                                             │
-│  chat.routes.js                             │
-│       │                                     │
-│  ┌────▼────┐  ┌──────────────┐  ┌────────┐ │
-│  │ recall  │  │controller    │  │ call   │ │
-│  │memory.js│  │schema.js     │  │python  │ │
-│  │         │  │              │  │agent.js│ │
-│  └────┬────┘  └──────┬───────┘  └───┬────┘ │
-│       │              │              │spawn()│
-│  ┌────▼──────────────▼──────────┐   │      │
-│  │  embText.js │ semantic_      │   │      │
-│  │  memory_    │ search.js      │   │      │
-│  │  store.js   │                │   │      │
-│  └────────────────┬─────────────┘   │      │
-│                   │                 │      │
-│            MongoDB Atlas            │      │
-│          (Vector + Chat Store)      │      │
-└─────────────────────────────────────┼──────┘
-                                      │ stdin/stdout
-┌─────────────────────────────────────▼──────┐
-│           Python AI Agent                  │
-│                                             │
-│   main.py ──► memory_store.py ──► LLM      │
-│   (orchestration) (embed+recall) (respond) │
-└─────────────────────────────────────────────┘
+<img width="1410" height="1492" alt="image" src="https://github.com/user-attachments/assets/30c8f478-64d3-43a3-b81d-d67a4206e8fa" />
+
+
 ```
 
 ---

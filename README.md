@@ -44,7 +44,9 @@ AI:   Yes, Nani! You introduced yourself earlier 😊
 
 
 <div align="center">
+
 <img src="[https://github.com/Nani10011001/LTM-AI-Agent/assets/your-asset-id/architecture.png](https://github.com/user-attachments/assets/6dfec8c2-1641-4d39-800d-96e747a275f6)" alt="LTM-AI-Agent Architecture" width="850"/>
+</div>
 </div>
 
 

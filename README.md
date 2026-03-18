@@ -42,7 +42,7 @@ AI:   Yes, Nani! You introduced yourself earlier 😊
 
  🏗️ Architecture
 ```
-<img width="1410" height="1492" alt="image" src="https://github.com/user-attachments/assets/30c8f478-64d3-43a3-b81d-d67a4206e8fa" />
+<img width="1235" height="879" alt="image" src="https://github.com/user-attachments/assets/c958aa53-7b46-43d7-a2a9-ebc0b6744536" />
 
 
 ```

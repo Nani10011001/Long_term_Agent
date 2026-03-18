@@ -41,13 +41,12 @@ AI:   Yes, Nani! You introduced yourself earlier 😊
 ---
 
  🏗️ Architecture
-```
-e
+
 
 <div align="center">
 <img src="https://github.com/Nani10011001/LTM-AI-Agent/assets/your-asset-id/architecture.png" alt="LTM-AI-Agent Architecture" width="850"/>
 </div>
-```
+
 
 ---
 
